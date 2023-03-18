@@ -1,5 +1,15 @@
 # @lagon/serverless
 
+## 0.1.25
+
+### Patch Changes
+
+- [#665](https://github.com/lagonapp/lagon/pull/665) [`a2ba9ce`](https://github.com/lagonapp/lagon/commit/a2ba9cec1bdfcabaee1e286f9a091f3a97899700) Thanks [@QuiiBz](https://github.com/QuiiBz)! - Reply 403 for HTTP access to cron functions
+
+* [#665](https://github.com/lagonapp/lagon/pull/665) [`a2ba9ce`](https://github.com/lagonapp/lagon/commit/a2ba9cec1bdfcabaee1e286f9a091f3a97899700) Thanks [@QuiiBz](https://github.com/QuiiBz)! - Listen Redis Pub/Sub in another thread
+
+- [#665](https://github.com/lagonapp/lagon/pull/665) [`a2ba9ce`](https://github.com/lagonapp/lagon/commit/a2ba9cec1bdfcabaee1e286f9a091f3a97899700) Thanks [@QuiiBz](https://github.com/QuiiBz)! - Reuse isolates across domains using the same deployment id
+
 ## 0.1.24
 
 ### Patch Changes
