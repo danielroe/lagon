@@ -35,7 +35,7 @@ lagon-runtime = { path = "../runtime" }
 lagon-runtime-isolate = { path = "../runtime_isolate" }
 
 [dev-dependencies]
-reqwest = "0.11.14"
+reqwest = "0.11.15"
 serial_test = "1.0.0"
 
 [features]
